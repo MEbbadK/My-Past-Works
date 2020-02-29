@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SubBoss
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SubBoss\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x
+comment1.target=void\ setShip(Ship)
+comment2.params=l
+comment2.target=void\ setLevel(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ ifHit()
+comment5.params=s
+comment5.target=void\ setStartLoc(int)
+comment6.params=mobil
+comment6.target=void\ movement(int)
+comment7.params=mobil\ newLaser
+comment7.target=void\ shoot(int,\ long)
+comment8.params=mobil\ newRocket\ lastRocket
+comment8.target=void\ fire(int,\ long,\ long)
+numComments=9
